@@ -39,5 +39,14 @@ responses = {
   "January 3" or "January 3rd" or "Feb 3" : "Febuary 6th, Thirty Fourth day of the year, Sixth day of the Second Month",
   "January 4" or "January 4th" or "Feb 4" : "Febuary 7th, Thirty Fifth day of the year, Seventh day of the Second Month",
   "January 5" or "January 5th" or "Feb 5" : "Febuary 8th, Thirty Sixth day of the year, Eighth day of the Second Month",
+  "January 6" or "January 6th" or "Feb 6" : "Febuary 9th, Thirty Seventh day of the year, Nineth day of the Second Month",
+  "January 7" or "January 7th" or "Feb 7" : "Febuary 10th, Thirty Eighth day of the year, Tenth day of the Second Month",
+  "January 8" or "January 8th" or "Feb 8" : "Febuary 11th, Thirty Ninth day of the year, Eleventh day of the Second Month",
+  "January 9" or "January 9th" or "Feb 9" : "Febuary 12th, Fourtith day of the year, Twelth day of the Second Month",
+  "January 10" or "January 10th" or "Feb 10" : "Febuary 13th, Forty First day of the year, Thirteenth day of the Second Month",
+  "January 11" or "January 11th" or "Feb 11" : "Febuary 14th, Fourty Second day of the year, Fourteenth day of the Second Month",
+  "January 12" or "January 12th" or "Feb 12" : "Febuary 15th, Fourty Third day of the year, Fifteenth day of the Second Month",
+  "January 13" or "January 13th" or "Feb 13" : "Febuary 16th, Fourty Fourth day of the year, Sixteenth day of the Second Month",
+
 }
 }
