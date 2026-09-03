@@ -34,5 +34,10 @@ responses = {
   "January 29" or "January 29th" or "Jan 29" : "Febuary 1st, Twenty Nineth day of the year, First day of the Second Month",
   "January 30" or "January 30th" or "Jan 31" : "Febuary 2nd, Thirtith day of the year, Second day of the Second Month",
   "January 31" or "January 31st" or "Jan 31" : "Febuary 3rd, Thirty First day of the year, Third day of the Second Month",
+  "Febuary 1" or "Febuary 1st" or "Feb 1" : "Febuary 4th, Thirty Second day of the year, Fourth day of the Second Month",
+  "January 2" or "January 2nd" or "Feb 2" : "Febuary 5th, Thirty Third day of the year, Fifth day of the Second Month",
+  "January 3" or "January 3rd" or "Feb 3" : "Febuary 6th, Thirty Fourth day of the year, Sixth day of the Second Month",
+  "January 4" or "January 4th" or "Feb 4" : "Febuary 7th, Thirty Fifth day of the year, Seventh day of the Second Month",
+  "January 5" or "January 5th" or "Feb 5" : "Febuary 8th, Thirty Sixth day of the year, Eighth day of the Second Month",
 }
 }
