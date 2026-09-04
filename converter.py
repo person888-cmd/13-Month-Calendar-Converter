@@ -119,6 +119,13 @@ responses = {
   "April 22" or "April 22th" or "Mar 22" : "April 28th, One Hundred Fourteenth day of the year, Twenty Eighth day of the Fourth Month",
 #May
   "April 23" or "April 23rd" or "Mar 23" : "May 1st, One Hundred Fifteenth day of the year, First day of the Fifth Month",
+  "April 24" or "April 24th" or "Mar 24" : "May 2nd, One Hundred Sixteenth day of the year, Second day of the Fifth Month",
+  "April 25" or "April 25th" or "Mar 25" : "May 3rd, One Hundred Seventeenth day of the year, Third day of the Fifth Month",
+  "April 26" or "April 26th" or "Mar 26" : "May 4th, One Hundred Eighteenth day of the year, Fourth day of the Fifth Month",
+  "April 27" or "April 27th" or "Mar 27" : "May 5th, One Hundred Nineteenth day of the year, Fifth day of the Fifth Month",
+  "April 28" or "April 28th" or "Mar 28" : "May 6th, One Hundred Twentith day of the year, Sixth day of the Fifth Month",
+  "April 29" or "April 29th" or "Mar 29" : "May 7th, One Hundred Twenty First day of the year, Seventh day of the Fifth Month",
+  "April 30" or "April 30th" or "Mar 30" : "May 8th, One Hundred Twenty Second day of the year, Eighth day of the Fifth Month",
 #June
 #Sol
 #July
