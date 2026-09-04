@@ -90,7 +90,7 @@ responses = {
   "March 25" or "March 25th" or "Mar 25" : "March 28th, Eighty Fourth day of the year, Twenty Eighth day of the Third Month",
 #April
   "March 26" or "March 26th" or "Mar 26" : "April 1st, Eighty Sixth day of the year, First day of the Fourth Month",
-  "March 27" or "March 26th" or "Mar 26" : "April 2nd, Eighty Fifth day of the year, Second day of the Fourth Month",
+  "March 27" or "March 26th" or "Mar 26" : "April 2nd, Eighty Seventh day of the year, Second day of the Fourth Month",
   "March 28" or "March 26th" or "Mar 26" : "April 3rd, Eighty Fifth day of the year, Third day of the Fourth Month",
   "March 29" or "March 26th" or "Mar 26" : "April 4th, Eighty Fifth day of the year, Fourth day of the Fourth Month",
   "March 30" or "March 26th" or "Mar 26" : "April 5th, Eighty Fifth day of the year, Fifth day of the Fourth Month",
